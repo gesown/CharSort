@@ -1,0 +1,11 @@
+C:\src\CharSort\CharSort\bin\Debug\netcoreapp2.1\CharSort.deps.json
+C:\src\CharSort\CharSort\bin\Debug\netcoreapp2.1\CharSort.runtimeconfig.json
+C:\src\CharSort\CharSort\bin\Debug\netcoreapp2.1\CharSort.runtimeconfig.dev.json
+C:\src\CharSort\CharSort\bin\Debug\netcoreapp2.1\CharSort.dll
+C:\src\CharSort\CharSort\bin\Debug\netcoreapp2.1\CharSort.pdb
+C:\src\CharSort\CharSort\obj\Debug\netcoreapp2.1\CharSort.csprojAssemblyReference.cache
+C:\src\CharSort\CharSort\obj\Debug\netcoreapp2.1\CharSort.csproj.CoreCompileInputs.cache
+C:\src\CharSort\CharSort\obj\Debug\netcoreapp2.1\CharSort.AssemblyInfoInputs.cache
+C:\src\CharSort\CharSort\obj\Debug\netcoreapp2.1\CharSort.AssemblyInfo.cs
+C:\src\CharSort\CharSort\obj\Debug\netcoreapp2.1\CharSort.dll
+C:\src\CharSort\CharSort\obj\Debug\netcoreapp2.1\CharSort.pdb
